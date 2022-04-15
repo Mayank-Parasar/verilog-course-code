@@ -1,0 +1,8 @@
+C:/Users/mayan/Documents/ECE8813A/HW_new_edge/hw5_tb.v {1 {vlog -work work -stats=none C:/Users/mayan/Documents/ECE8813A/HW_new_edge/hw5_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module hw5_tb
+
+Top level modules:
+	hw5_tb
+
+} {} {}}

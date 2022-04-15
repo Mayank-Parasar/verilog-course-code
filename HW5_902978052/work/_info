@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/mayan/Documents/ECE8813A/HW5
+vhw5_tb
+Z0 !s110 1489439561
+!i10b 1
+!s100 N;O=XNai@lPSm1aTBL_>]2
+IFHL3BA4U]5Nif=^NJW2>@0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/mayan/Documents/ECE8813A/HW5_902978052
+w1488965382
+8C:/Users/mayan/Documents/ECE8813A/HW5_902978052/hw5_tb.v
+FC:/Users/mayan/Documents/ECE8813A/HW5_902978052/hw5_tb.v
+L0 20
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1489439561.000000
+!s107 C:/Users/mayan/Documents/ECE8813A/HW5_902978052/hw5_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mayan/Documents/ECE8813A/HW5_902978052/hw5_tb.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vhw5_top
+R0
+!i10b 1
+!s100 ?lfz3kIkU44I516<hJ?hm3
+IQD@KURi>n?RM;gW[lhEXn2
+R1
+R2
+w1488964819
+8C:/Users/mayan/Documents/ECE8813A/HW5_902978052/hw5_top.v
+FC:/Users/mayan/Documents/ECE8813A/HW5_902978052/hw5_top.v
+L0 22
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/mayan/Documents/ECE8813A/HW5_902978052/hw5_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mayan/Documents/ECE8813A/HW5_902978052/hw5_top.v|
+!i113 1
+R5
+R6
