@@ -1,0 +1,49 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "symbol[0]",
+					"strict" : false
+				},
+				{
+					"name" : "symbol[1]",
+					"strict" : false
+				},
+				{
+					"name" : "symbol[2]",
+					"strict" : false
+				},
+				{
+					"name" : "symbol[3]",
+					"strict" : false
+				},
+				{
+					"name" : "quad[0]",
+					"strict" : false
+				},
+				{
+					"name" : "quad[1]",
+					"strict" : false
+				},
+				{
+					"name" : "quad[2]",
+					"strict" : false
+				},
+				{
+					"name" : "inphase[0]",
+					"strict" : false
+				},
+				{
+					"name" : "inphase[1]",
+					"strict" : false
+				},
+				{
+					"name" : "inphase[2]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

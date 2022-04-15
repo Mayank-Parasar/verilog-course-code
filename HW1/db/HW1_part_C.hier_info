@@ -1,0 +1,25 @@
+|HW1_part_D
+inphase[0] => and_4.IN0
+inphase[0] => and_5.IN0
+inphase[0] => and_6.IN0
+inphase[1] => and_4.IN1
+inphase[1] => and_6.IN1
+inphase[1] => and_5.IN1
+inphase[2] => and_4.IN2
+inphase[2] => and_5.IN2
+inphase[2] => and_6.IN2
+quad[0] => and_1.IN0
+quad[0] => and_2.IN0
+quad[0] => and_3.IN0
+quad[1] => and_1.IN1
+quad[1] => and_3.IN1
+quad[1] => and_2.IN1
+quad[2] => and_1.IN2
+quad[2] => and_2.IN2
+quad[2] => and_3.IN2
+symbol[0] << or_1.DB_MAX_OUTPUT_PORT_TYPE
+symbol[1] << or_2.DB_MAX_OUTPUT_PORT_TYPE
+symbol[2] << or_3.DB_MAX_OUTPUT_PORT_TYPE
+symbol[3] << or_4.DB_MAX_OUTPUT_PORT_TYPE
+
+

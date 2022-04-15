@@ -1,0 +1,51 @@
+# Reading C:/intelFPGA_lite/16.1/modelsim_ase/tcl/vsim/pref.tcl
+# do HW1_part_C_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/16.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/mayan/Documents/ECE8813A/HW1 {C:/Users/mayan/Documents/ECE8813A/HW1/HW1_part_D.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 00:47:28 on Jan 25,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/mayan/Documents/ECE8813A/HW1" C:/Users/mayan/Documents/ECE8813A/HW1/HW1_part_D.v 
+# -- Compiling module HW1_part_D
+# 
+# Top level modules:
+# 	HW1_part_D
+# End time: 00:47:28 on Jan 25,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/mayan/Documents/ECE8813A/HW1 {C:/Users/mayan/Documents/ECE8813A/HW1/tb_QPSK_Decode.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 00:47:28 on Jan 25,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/mayan/Documents/ECE8813A/HW1" C:/Users/mayan/Documents/ECE8813A/HW1/tb_QPSK_Decode.v 
+# -- Compiling module tb_QPSK_Decode
+# 
+# Top level modules:
+# 	tb_QPSK_Decode
+# End time: 00:47:28 on Jan 25,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs="+acc"  tb_QPSK_Decode
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs=""+acc"" tb_QPSK_Decode 
+# Start time: 00:47:28 on Jan 25,2017
+# Loading work.tb_QPSK_Decode
+# Loading work.HW1_part_D
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Note: $stop    : C:/Users/mayan/Documents/ECE8813A/HW1/tb_QPSK_Decode.v(95)
+#    Time: 635 ps  Iteration: 1  Instance: /tb_QPSK_Decode
+# Break in Module tb_QPSK_Decode at C:/Users/mayan/Documents/ECE8813A/HW1/tb_QPSK_Decode.v line 95
+# End time: 00:51:24 on Jan 25,2017, Elapsed time: 0:03:56
+# Errors: 0, Warnings: 0
