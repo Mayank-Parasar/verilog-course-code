@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/mayan/Documents/ECE8813A/HW5_902978052
+vhw6_tb
+Z0 !s110 1490256262
+!i10b 1
+!s100 FFRfdmZ1cjN5RmjXY;lzj0
+IX>5jgfWP^:7D;bL>9DL_61
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/mayan/Documents/ECE8813A/HW6
+w1490251485
+8C:\Users\mayan\Documents\ECE8813A\HW6\hw6_tb.v
+FC:\Users\mayan\Documents\ECE8813A\HW6\hw6_tb.v
+Z3 L0 22
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1490256262.000000
+!s107 C:\Users\mayan\Documents\ECE8813A\HW6\hw6_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\mayan\Documents\ECE8813A\HW6\hw6_tb.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vhw6_top
+R0
+!i10b 1
+!s100 [K@ckATOc_Ij5lYbUA:VJ2
+ICjk56APR?RGo4HdcGU]m73
+R1
+R2
+w1490254296
+8C:\Users\mayan\Documents\ECE8813A\HW6\hw6_top.v
+FC:\Users\mayan\Documents\ECE8813A\HW6\hw6_top.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:\Users\mayan\Documents\ECE8813A\HW6\hw6_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\mayan\Documents\ECE8813A\HW6\hw6_top.v|
+!i113 1
+R6
+R7
+vv_ram_01_1
+R0
+!i10b 1
+!s100 9je?mV]CJggHYJda87N6=0
+IEg0OZ4HQEglo^N]iMRm8c1
+R1
+R2
+w1490256228
+8C:/Users/mayan/Documents/ECE8813A/HW6/v_ram_01_1.v
+FC:/Users/mayan/Documents/ECE8813A/HW6/v_ram_01_1.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mayan/Documents/ECE8813A/HW6/v_ram_01_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mayan/Documents/ECE8813A/HW6/v_ram_01_1.v|
+!i113 1
+R6
+R7

@@ -1,0 +1,22 @@
+C:/Users/mayan/Documents/ECE8813A/HW6/v_ram_01_1.v {1 {vlog -work work -stats=none C:/Users/mayan/Documents/ECE8813A/HW6/v_ram_01_1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module v_ram_01_1
+
+Top level modules:
+	v_ram_01_1
+
+} {} {}} C:/Users/mayan/Documents/ECE8813A/HW6/hw6_tb.v {1 {vlog -work work -stats=none {C:\Users\mayan\Documents\ECE8813A\HW6\hw6_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module hw6_tb
+
+Top level modules:
+	hw6_tb
+
+} {} {}} C:/Users/mayan/Documents/ECE8813A/HW6/hw6_top.v {1 {vlog -work work -stats=none {C:\Users\mayan\Documents\ECE8813A\HW6\hw6_top.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module hw6_top
+
+Top level modules:
+	hw6_top
+
+} {} {}}
