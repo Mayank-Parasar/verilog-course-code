@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/mayan/Documents/ECE8813A/HW4/hw4
+vhw4_sprinkler
+Z0 !s110 1487625818
+!i10b 1
+!s100 d1h]:mdfl>U0]QA>N3NUA0
+IiEJDI6;<CB`@IHmzCaUF92
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/mayan/Documents/ECE8813A/HW4/HW4_902978052
+Z3 w1487625716
+8C:/Users/mayan/Documents/ECE8813A/HW4/HW4_902978052/hw4_sprinkler.v
+FC:/Users/mayan/Documents/ECE8813A/HW4/HW4_902978052/hw4_sprinkler.v
+Z4 L0 22
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1487625818.000000
+!s107 C:/Users/mayan/Documents/ECE8813A/HW4/HW4_902978052/hw4_sprinkler.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mayan/Documents/ECE8813A/HW4/HW4_902978052/hw4_sprinkler.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+vhw4_tb
+!s110 1487625819
+!i10b 1
+!s100 ?05DNojHaW1Fl:a8I@GFe0
+I_2AM_8g?07Dj4K8CTNaLj1
+R1
+R2
+R3
+8C:/Users/mayan/Documents/ECE8813A/HW4/HW4_902978052/hw4_tb.v
+FC:/Users/mayan/Documents/ECE8813A/HW4/HW4_902978052/hw4_tb.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/mayan/Documents/ECE8813A/HW4/HW4_902978052/hw4_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mayan/Documents/ECE8813A/HW4/HW4_902978052/hw4_tb.v|
+!i113 1
+R7
+R8
+vserial_gps_mine
+R0
+!i10b 1
+!s100 Cz0JeZ?FgkRl?05V7lh2d0
+IG]jZdXn8ZDO>G1jXIKI8W3
+R1
+R2
+R3
+8C:/Users/mayan/Documents/ECE8813A/HW4/HW4_902978052/serial_gps_mine.v
+FC:/Users/mayan/Documents/ECE8813A/HW4/HW4_902978052/serial_gps_mine.v
+L0 24
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/mayan/Documents/ECE8813A/HW4/HW4_902978052/serial_gps_mine.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mayan/Documents/ECE8813A/HW4/HW4_902978052/serial_gps_mine.v|
+!i113 1
+R7
+R8

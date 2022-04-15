@@ -1,0 +1,22 @@
+C:/Users/mayan/Documents/ECE8813A/HW4/HW4_902978052/hw4_tb.v {1 {vlog -work work -stats=none C:/Users/mayan/Documents/ECE8813A/HW4/HW4_902978052/hw4_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module hw4_tb
+
+Top level modules:
+	hw4_tb
+
+} {} {}} C:/Users/mayan/Documents/ECE8813A/HW4/HW4_902978052/hw4_sprinkler.v {1 {vlog -work work -stats=none C:/Users/mayan/Documents/ECE8813A/HW4/HW4_902978052/hw4_sprinkler.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module hw4_sprinkler
+
+Top level modules:
+	hw4_sprinkler
+
+} {} {}} C:/Users/mayan/Documents/ECE8813A/HW4/HW4_902978052/serial_gps_mine.v {1 {vlog -work work -stats=none C:/Users/mayan/Documents/ECE8813A/HW4/HW4_902978052/serial_gps_mine.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module serial_gps_mine
+
+Top level modules:
+	serial_gps_mine
+
+} {} {}}

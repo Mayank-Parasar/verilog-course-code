@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/16.1
+vhw4_sprinkler
+Z0 !s110 1487627181
+!i10b 1
+!s100 d1h]:mdfl>U0]QA>N3NUA0
+I4c?GYVY_8?6P=POTaO2^k2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/mayan/Documents/ECE8813A/HW4/hw4
+w1487625716
+8C:/Users/mayan/Documents/ECE8813A/HW4/hw4/hw4_sprinkler.v
+FC:/Users/mayan/Documents/ECE8813A/HW4/hw4/hw4_sprinkler.v
+Z3 L0 22
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1487627180.000000
+!s107 C:/Users/mayan/Documents/ECE8813A/HW4/hw4/hw4_sprinkler.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mayan/Documents/ECE8813A/HW4/hw4/hw4_sprinkler.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vhw4_tb
+R0
+!i10b 1
+!s100 >_Z5TYfI8aTD6mlVbG51W3
+ICZIzA:dWbccAMVWzKR@`e0
+R1
+R2
+w1487627138
+8C:/Users/mayan/Documents/ECE8813A/HW4/hw4/hw4_tb.v
+FC:/Users/mayan/Documents/ECE8813A/HW4/hw4/hw4_tb.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1487627181.000000
+!s107 C:/Users/mayan/Documents/ECE8813A/HW4/hw4/hw4_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mayan/Documents/ECE8813A/HW4/hw4/hw4_tb.v|
+!i113 1
+R6
+R7
+vserial_gps_mine
+!s110 1487627180
+!i10b 1
+!s100 Cz0JeZ?FgkRl?05V7lh2d0
+IFVlRmf<BMKjkV;6kJSVm<0
+R1
+R2
+w1487545005
+8C:/Users/mayan/Documents/ECE8813A/HW4/hw4/serial_gps_mine.v
+FC:/Users/mayan/Documents/ECE8813A/HW4/hw4/serial_gps_mine.v
+L0 24
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mayan/Documents/ECE8813A/HW4/hw4/serial_gps_mine.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mayan/Documents/ECE8813A/HW4/hw4/serial_gps_mine.v|
+!i113 1
+R6
+R7
