@@ -1,0 +1,28 @@
+// In this file, I want to create self checking test-bed for verilog
+// `include "HW1_part_D.v"
+
+module self_checking_testbed();
+
+// create some obvious symbols/parameters here...
+reg clk;
+reg [15:0] din_inphase; // this will be helpful in reading the inphase part from VHDLVects.txt
+reg [15:0] din_quad; // this will be helpful in reading the inphase part from VHDLVects.txt
+
+// file descriptors should be declared of type integers.. 
+// taken from asic world example...
+integer in; // descriptor for reading from the file..
+integer out; // for outputting on the screen, for debugging purpose.
+in = $fopen("VHDLVects.txt", "r");
+
+always #1 clk = ~clk;
+// read from the file here..
+initial begin
+
+
+
+
+end
+
+
+
+endmodule

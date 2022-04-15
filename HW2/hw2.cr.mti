@@ -1,0 +1,22 @@
+C:/Users/mayan/Documents/ECE8813A/HW2/HW1_part_D.v {1 {vlog -work work -stats=none C:/Users/mayan/Documents/ECE8813A/HW2/HW1_part_D.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module HW1_part_D
+
+Top level modules:
+	HW1_part_D
+
+} {} {}} C:/Users/mayan/Documents/ECE8813A/HW2/HW2_tb_16QAM.v {1 {vlog -work work -stats=none {C:\Users\mayan\Documents\ECE8813A\HW2\HW2_tb_16QAM.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module HW2_tb_16QAM
+
+Top level modules:
+	HW2_tb_16QAM
+
+} {} {}} C:/Users/mayan/Documents/ECE8813A/HW2/known_symbol_logic.v {1 {vlog -work work -stats=none C:/Users/mayan/Documents/ECE8813A/HW2/known_symbol_logic.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module known_symbol_logic
+
+Top level modules:
+	known_symbol_logic
+
+} {} {}}

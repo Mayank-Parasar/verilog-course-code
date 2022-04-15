@@ -1,0 +1,96 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/mayan/Documents/modelsim_prj
+vHW1_part_D
+Z0 !s110 1486088774
+!i10b 1
+!s100 z3:S;MJ<oUe7YbY9JNjH[1
+IITCM_1W2oI4h;Rodjjm;@0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/mayan/Documents/ECE8813A/HW2
+w1486088379
+8C:/Users/mayan/Documents/ECE8813A/HW2/HW1_part_D.v
+FC:/Users/mayan/Documents/ECE8813A/HW2/HW1_part_D.v
+L0 19
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1486088774.000000
+!s107 C:/Users/mayan/Documents/ECE8813A/HW2/HW1_part_D.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mayan/Documents/ECE8813A/HW2/HW1_part_D.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@h@w1_part_@d
+vHW2_tb_16QAM
+R0
+!i10b 1
+!s100 ang5<_Z]B;TXRG9kA6o3>2
+IJUYBjQD=?>9?M?_4MQ<bY0
+R1
+R2
+w1486088765
+8C:\Users\mayan\Documents\ECE8813A\HW2\HW2_tb_16QAM.v
+FC:\Users\mayan\Documents\ECE8813A\HW2\HW2_tb_16QAM.v
+L0 11
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\mayan\Documents\ECE8813A\HW2\HW2_tb_16QAM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\mayan\Documents\ECE8813A\HW2\HW2_tb_16QAM.v|
+!i113 1
+R5
+R6
+n@h@w2_tb_16@q@a@m
+vknown_symbol_logic
+R0
+!i10b 1
+!s100 j1Xd:^>MA1]Ec>Poma^Hj3
+IojLA8IE;>UjUJc:ezH5O30
+R1
+R2
+w1486088443
+8C:/Users/mayan/Documents/ECE8813A/HW2/known_symbol_logic.v
+FC:/Users/mayan/Documents/ECE8813A/HW2/known_symbol_logic.v
+L0 7
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/mayan/Documents/ECE8813A/HW2/known_symbol_logic.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mayan/Documents/ECE8813A/HW2/known_symbol_logic.v|
+!i113 1
+R5
+R6
+vself_checking_testbed
+!s110 1485725269
+!i10b 1
+!s100 5h?ZD9DiQ0FUa`T9;lYb^1
+IEn_fA`[VIF`FRKDV;Ockf1
+R1
+R2
+w1485725264
+8C:/Users/mayan/Documents/ECE8813A/HW2/self_checking_testbed.v
+FC:/Users/mayan/Documents/ECE8813A/HW2/self_checking_testbed.v
+L0 14
+R3
+r1
+!s85 0
+31
+!s108 1485725269.000000
+!s107 HW1_part_D.v|C:/Users/mayan/Documents/ECE8813A/HW2/self_checking_testbed.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mayan/Documents/ECE8813A/HW2/self_checking_testbed.v|
+!i113 1
+R5
+R6

@@ -1,0 +1,13 @@
+|HW1_part_D
+inphase_inp[0] => ~NO_FANOUT~
+inphase_inp[1] => ~NO_FANOUT~
+inphase_inp[2] => ~NO_FANOUT~
+quad_inp[0] => ~NO_FANOUT~
+quad_inp[1] => ~NO_FANOUT~
+quad_inp[2] => ~NO_FANOUT~
+symbol[0] << <VCC>
+symbol[1] << <VCC>
+symbol[2] << <VCC>
+symbol[3] << <VCC>
+
+

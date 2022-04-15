@@ -1,0 +1,51 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+11101011110000110011110010110111
+inphase = 1110101111000011 	 quad = 0011110010110111 	 symbol = 0100 	 symbol_known = 0100
+HW2_tb_16QAM.U0.inphase = 111 	 HW2_tb_16QAM.U0.quad = 101, HW2_tb_16QAM.U0.symbol = 0100
+HW2_tb_16QAM.U1.inphase = 111 	 HW2_tb_16QAM.U1.quad = 101, HW2_tb_16QAM.U1.symbol_known = 0100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+11101011110000111100001101001001
+inphase = 1110101111000011 	 quad = 1100001101001001 	 symbol = 0110 	 symbol_known = 0110
+HW2_tb_16QAM.U0.inphase = 111 	 HW2_tb_16QAM.U0.quad = 011, HW2_tb_16QAM.U0.symbol = 0110
+HW2_tb_16QAM.U1.inphase = 111 	 HW2_tb_16QAM.U1.quad = 011, HW2_tb_16QAM.U1.symbol_known = 0110
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+11000011010010010001010000111101
+inphase = 1100001101001001 	 quad = 0001010000111101 	 symbol = 0100 	 symbol_known = 0100
+HW2_tb_16QAM.U0.inphase = 111 	 HW2_tb_16QAM.U0.quad = 101, HW2_tb_16QAM.U0.symbol = 0100
+HW2_tb_16QAM.U1.inphase = 111 	 HW2_tb_16QAM.U1.quad = 101, HW2_tb_16QAM.U1.symbol_known = 0100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+00111100101101111100001101001001
+inphase = 0011110010110111 	 quad = 1100001101001001 	 symbol = 0011 	 symbol_known = 0011
+HW2_tb_16QAM.U0.inphase = 101 	 HW2_tb_16QAM.U0.quad = 001, HW2_tb_16QAM.U0.symbol = 0011
+HW2_tb_16QAM.U1.inphase = 101 	 HW2_tb_16QAM.U1.quad = 001, HW2_tb_16QAM.U1.symbol_known = 0011
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+11000011010010010011110010110111
+inphase = 1100001101001001 	 quad = 0011110010110111 	 symbol = 1000 	 symbol_known = 1000
+HW2_tb_16QAM.U0.inphase = 011 	 HW2_tb_16QAM.U0.quad = 101, HW2_tb_16QAM.U0.symbol = 1000
+HW2_tb_16QAM.U1.inphase = 011 	 HW2_tb_16QAM.U1.quad = 101, HW2_tb_16QAM.U1.symbol_known = 1000
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+11000011010010011110101111000011
+inphase = 1100001101001001 	 quad = 1110101111000011 	 symbol = 0010 	 symbol_known = 0010
+HW2_tb_16QAM.U0.inphase = 101 	 HW2_tb_16QAM.U0.quad = 011, HW2_tb_16QAM.U0.symbol = 0010
+HW2_tb_16QAM.U1.inphase = 101 	 HW2_tb_16QAM.U1.quad = 011, HW2_tb_16QAM.U1.symbol_known = 0010
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+11000011010010010001010000111101
+inphase = 1100001101001001 	 quad = 0001010000111101 	 symbol = 0001 	 symbol_known = 0001
+HW2_tb_16QAM.U0.inphase = 101 	 HW2_tb_16QAM.U0.quad = 111, HW2_tb_16QAM.U0.symbol = 0001
+HW2_tb_16QAM.U1.inphase = 101 	 HW2_tb_16QAM.U1.quad = 111, HW2_tb_16QAM.U1.symbol_known = 0001
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+00010100001111010011110010110111
+inphase = 0001010000111101 	 quad = 0011110010110111 	 symbol = 0011 	 symbol_known = 0011
+HW2_tb_16QAM.U0.inphase = 101 	 HW2_tb_16QAM.U0.quad = 001, HW2_tb_16QAM.U0.symbol = 0011
+HW2_tb_16QAM.U1.inphase = 101 	 HW2_tb_16QAM.U1.quad = 001, HW2_tb_16QAM.U1.symbol_known = 0011
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+11000011010010010001010000111101
+inphase = 1100001101001001 	 quad = 0001010000111101 	 symbol = 1110 	 symbol_known = 1110
+HW2_tb_16QAM.U0.inphase = 001 	 HW2_tb_16QAM.U0.quad = 011, HW2_tb_16QAM.U0.symbol = 1110
+HW2_tb_16QAM.U1.inphase = 001 	 HW2_tb_16QAM.U1.quad = 011, HW2_tb_16QAM.U1.symbol_known = 1110
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+00111100101101110011110010110111
+inphase = 0011110010110111 	 quad = 0011110010110111 	 symbol = 0011 	 symbol_known = 0011
+HW2_tb_16QAM.U0.inphase = 101 	 HW2_tb_16QAM.U0.quad = 001, HW2_tb_16QAM.U0.symbol = 0011
+HW2_tb_16QAM.U1.inphase = 101 	 HW2_tb_16QAM.U1.quad = 001, HW2_tb_16QAM.U1.symbol_known = 0011
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
