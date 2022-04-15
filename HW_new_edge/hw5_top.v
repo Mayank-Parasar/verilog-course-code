@@ -1,4 +1,9 @@
 /*
+************************************************************
+*	Engineer: 	Mayank Parasar
+*	Module:		hw5 
+************************************************************
+/*
 Condition for stopping the simulation is
 when 'out_pixel_counter == rows*cols'
 Therefore, set 'out_pixel_valid' only when

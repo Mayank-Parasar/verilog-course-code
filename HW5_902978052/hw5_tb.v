@@ -2,7 +2,7 @@
 
 /*
 ************************************************************
-*	Engineer: 	Mudassar, B
+*	Engineer: 	Mayank Parasar, Mudassar, B
 *	Module:		hw5 testbench
 *	Functionality:
 *					Reads a bitmap file using fgetc

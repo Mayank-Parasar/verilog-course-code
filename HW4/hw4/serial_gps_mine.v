@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 		Carrier Frequency, Inc.
-// Engineer: 		Jon Carrier
+// Engineer: 		Mayank Parasar, Jon Carrier
 // 
 // Create Date:    20:03:42 05/31/2011 
 // Design Name: 

@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 	   Mudassar, Burhan
+// Engineer: 	   Mayank Parasar, Mudassar, Burhan
 // 
 // Create Date:    16:01:23 02/07/2017 
 // Design Name: 

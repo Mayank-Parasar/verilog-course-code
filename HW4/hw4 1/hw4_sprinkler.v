@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: Mayank Parasar
 // 
 // Create Date:    11:50:19 02/15/2017 
 // Design Name: 

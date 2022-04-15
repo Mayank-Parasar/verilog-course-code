@@ -1,3 +1,6 @@
+//-----------------------------------------------------
+// Engineer: Mayank Parasar
+//-----------------------------------------------------
 // This is the module: known_symbol_logic();
 // This module takes inphase and quad as input
 // and give known symbol as output.

@@ -1,5 +1,5 @@
 //-----------------------------------------------------
-// Engineer: Mudassar, Burhan
+// Engineer: Mayank Parasar, Mudassar, Burhan
 // Overview
 //  A testbench to test 4QAM decoder
 //	4QAM data into Symbols.
